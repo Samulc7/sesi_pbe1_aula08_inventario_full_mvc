@@ -1,7 +1,7 @@
-#inventario backend
+# inventario backend
 Aula de backend MVC projeto de exemplo usando um mockup bens.json
 
-##Tecnologias
+## Tecnologias
 
 - Node.js
 - Express
