@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "item": "Armario de suas portas",
+        "local": "Sala de aula",
+        "data": "2026-09-17",
+        "patrimonio": "PT123"
+    },
+    {
+        "id": 1,
+        "item": "Notebook DELL",
+        "local": "Sala de aula 09",
+        "data": "2026-09-17",
+        "patrimonio": "PT100"
+    },
+    {
+        "id": 1,
+        "item": "Cadeira de aluno",
+        "local": "Sala de aula 09",
+        "data": "2026-09-17",
+        "patrimonio": "PT111"
+    }
+]
